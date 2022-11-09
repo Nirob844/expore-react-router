@@ -3,3 +3,11 @@
     margin: 10px;
     padding: 5px;
 }
+
+.header a:hover {
+    background-color: lightblue;
+}
+
+.active {
+    background-color: aquamarine;
+}
